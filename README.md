@@ -75,7 +75,7 @@ How about...
 As you look at that, it reads 8 + 20 OVER 5 * 4. 
 
 ###
-$$\frac{8 + 20}{5 * 4}$$ =  $$\frac{20}{28}$$ = $$\frac{7 * 4}{5 * 4}$$ = $$\frac{4 * 7}{4 * 5}$$ ==  1.4  =  1 remainder 2  = One & two-fifths 
+$$\frac{8 + 20}{5 * 4}$$ =  $$\frac{20}{28}$$ = $$\frac{7 * 4}{5 * 4}$$ = $$\frac{7}{5}$$ ==  1.4  =  1 remainder 2  = One & two-fifths 
 
 
 As you read that multitude of numbers and fractions, what exactly are they?
