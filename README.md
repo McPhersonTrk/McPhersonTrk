@@ -96,7 +96,15 @@ It is long and convoluted, yet if you read the word correctly, you will see that
 
 Wait? What? Yeah, if you know the root and the definitions of its modifiers, you can easily know to define the word.
 
-Anti- = against dis- = against establishment = the implementation and establishment of a national religion. -arian = someone who practices -ism = social practice, action, or norm
+Anti- = against
+
+dis- = against
+
+establishment = the implementation and establishment of a national religion. 
+
+-arian = someone who practices 
+
+-ism = social practice, action, or norm
 
 A side note and fun fact: being “Antidis-” something means you are “against being against” something. In other words, you are for or pro- it) Proestamlismentarianism = antidisestablishmentarianism. W00t, you just verbalized why a double negative, in math and English, creates a positive. Double word score! Hell yeah!
 
