@@ -120,7 +120,9 @@ In the language of Math, the same thing is happening with parentheses and expone
 
 Anti-[(-dis-)+{establishment}+(-arian)]-ism
 
-Let's look at this expression: 1[1(1{x} + 0)1]1/1 (Note: a fractional exponent = a fraction. So, x1/1 = x ÷ 1)
+Let's look at this expression: 1[1(1{x} + 0)1]^1/1 
+
+(Note: a fractional exponent = a fraction. So, x^1/1^ = x ÷ 1 where x^1/2 = 1/(x^2^) )
 
 Okay, WTF is all of that? The answer = x, where x can be any number you assign to it. No matter what number you assign to the value of x, it will always return the same value of x.
 
@@ -128,27 +130,39 @@ How does that work? It’s because 1 is a null modifier.
 
 Now, here is the most crucial part, every number can be expressed as above. The parentheses represent the “root” word being modified (establishment.) Everything else is what is being done to that word, change the definition of the word as a whole.
 
-If you don’t see the modifier written out or expressed, then that modifier's value is = 1.
+If you don’t see the modifier written out or expressed, then that modifier's value is = 1 and even if it isn't expressed in writeing, it is still there and has to be taken in account.
+
+if we wrote out our favorite compound word, mathmaically, it would look like this:
 
 Anti-[(-dis-)+{establishment}+(-arian)]-ism
 
-If you replace any of the modifiers, you change the definition of the word:
+If you replace, remove, or change any of those modifiers, you change the definition of the word.:
 
-1-[(-1-)+{establishment}+(-arian)]-ism = someone who is for the implementation of a state religion. Anti-[(-1-)+{establishment}+(-arian)]-ism = is someone who is against it. 1-[(-1-)+{establishment}+(-1)]-1  = the implementation of a national religion.
+1-[(-1-)+{establishment}+(-arian)]-ism = someone who is for the implementation of a state religion. 
 
-Now, if you apply that to math and any value for X.
+Anti-[(-1-)+{establishment}+(-arian)]-ism = is someone who is against it. 
 
-1x = x = 1x1 = 1(x1)1/1… ad infinitum 
+1-[(-1-)+{establishment}+(-1)]-1  = the implementation of a national religion.
 
-So, what does all of this mean?
+Now, let's apply that logic to value for X.
 
-If you see parentheses, then everything touching those parentheses are modifiers of the value within the parentheses.
+1x = x = 1x1 = 1(x1)^1/1… ad infinitum 
 
-The “prefix” or the number in front of the parenthesis is called a “coefficient.”
+So, exactly what does all of this mean?
 
-It expresses the multitude of the value inside the parentheses. 1(x) means there is only one (x), where 999(x) means there are 999 of them added together.
+If you see parentheses, then everything touching those parentheses, expressed or in the case of 1, not expressed, are modifiers of the value within the parentheses.
 
-The exponent expresses the multiplicity or how many times (x) is multiplied and compounded by itself.
+do these modifiers have names? yup. The “prefix” or the number in front of the parenthesis is called a “coefficient.”
+
+A coefficient expresses the multitude of the value inside the parentheses. 
+
+1(x) means there is only one (x), where 999(x) means there are 999 of them added together.
+
+The exponent expresses the multiplicity, or how many times (x), is multiplied and compounded by itself.
+
+
+## Summation... for now.
+
 
 Now, to tie all of this PEDMAS stuff together and learning the translation of math into English.
 
