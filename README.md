@@ -42,52 +42,67 @@ While quite entertaining and seemingly just crazy enough to be true. it is not.
 
 The true answer: NOBODY DID!  I know that it sure feels like someone HAD to invent it, it is just too evil to be a miraculous coincidence!!!
 
-well, it is it definately wan't miracul;ous conception , either. So, who, or what invented it? well, to be honest, (for us english speakers) the  English language did it. Spoken language, not just english but in every language , chose that order. What? Dead serious. The order of operations is done because when the equation is translated into spoken language, the sentence structure tells you what to do first.
+well, it definately wan't miraculous conception, either. So, who, or what invented it? well, to be honest, (for us english speakers) the  English language did it. Spoken language, not just english but in every language , chose that order. Whaaaaat? No way! Dead serious. The order of operations is done in that order because, when the equation is translated into spoken language, the sentence structure tells you what to do first.
 
-Lost? Confused? Don’t worry, you are not alone. Most people cannot literate mathematical equations as English. This is the root cause of most people's mathematical struggles. 
+Lost? Confused? Don’t worry, you are not alone. Most people cannot affectively literate mathematical equations as English. This is the root cause of most people's mathematical struggles. 
 
-Disbelief? do we need to put on our boots, because it is getting deep, yet?
+Disbelief? Do you feel the need to put your boots on, because "it" is getting deep? how about now?
 
-Here, let’s work through an example.
+Let’s work through an example.
 
-Read this out loud:
+Read this problem out loud:
 
 8 + 20 ÷ 5 * 4 = _____
 
-So, as you look at that math problem, read it out loud.
+Honest assesment, go ahead an calculate the answer on paper. Got it? Stop peaking! Cheater Cheater, Pumpkin Eater!
 
-Now our we apply our grammar rule, PEDMAS, then left to right, correct? That is the process, correct? 
+So, now that you've done the maths! lets go over it.
 
-Most people will erroneously go to the division, then multiply, then calculate left to right.
+Read it out loud again...
 
-If you read: eight + twenty ÷ five * four, right? You applied PEDMAS: and got, 8 + 5 * 4 = 8 + 20 = 28, right? Nope, you translated that sentence wrong.
+Now, that we know what it is asking for we should apply our grammar rule and compute. first we work through PEDMAS, and then go left to right, correct? 
 
-If you forgot about PEDMAS and went left to right, you came up with  28 ÷ 5 * 4 = 5.6 * 4 = 22.4. Nope, that isn’t right, either.
+how did you rear that problem? be honest. A lot of people will erroneously go to the division, then multiply, then calculate left to right.
 
-This math problem, properly translated into English reads: “The sum of 8 and 20 divided by the 5th multiple of 4.”
+If you read it that way: "eight + twenty ÷ five * four," right? You applied PEDMAS: and got, 8 + 5 * 4 = 8 + 20 = 28, right? 
 
-I know, you're asking how that makes sense; there aren’t any parentheses? Turns out they aren't needed. BS? or no BS?
+if that was you, you translated that sentence wrong. 'You are the weakest link! Goodbye!' 
 
-No BS. It does not need parenthases because you misread what ÷ truly was saying. Huuuuh?
+some other people would have completely forgot about PEDMAS and went left to right, those people came up with  28 ÷ 5 * 4 = 5.6 * 4 = 22.4. 
 
-Anytime you see: ÷, /, or ⟌, what are you dealing with? A fraction. keep cringing, I'll wait. dI understand, Fractions are evil and are always messing with people.
+Nope, that isn’t right, either. I was also wrong, these people are the weakest link! Yowzer!
+
+This math problem, when properly translated into English reads: 
+
+## “The sum of 8 and 20 divided by the 5th multiple of 4.”
+
+is that evcen English? yup, good old proper English.  I bet you are having more strange thoughts right about now: 'that makes no sense at all, there aren’t any parentheses!' Turns out they aren't needed. BS? or no BS?
+
+No BS. It does not need parenthases because you misread what ÷ truly was saying. Huuuuh? Don't feel bad, it's a very common mistake. So, what went wrong?
+
+you forgot one small itty bitty bit. Anytime you see: ÷, /, or ⟌, what are you dealing with? A fraction. 
+
+keep cringing, I'll wait. I understand, fractions are evil and are always messing with people.
 
 Rewrite it:
 
-8 + 20 ÷ 5 * 4  ==  8 + 20 ⟌ 5 * 4 
+8 + 20 ÷ 5 * 4  =  8 + 20 ⟌ 5 * 4 
 
  Do you see it yet? it's okay if youi don't. On a PC screen, the long division symbol doesn't quite cover everything undernieth it.
 
 How about...if you read it out loud: "8 + 20 OVER 5 * 4?"  
 
-How about if , i were to express it as a fraction?
+How about if, i were to express it as a fraction?
 
 $$\frac{8 + 20}{5 * 4}$$ =  $$\frac{20}{28}$$ = $$\frac{7 * 4}{5 * 4}$$ = $$\frac{7}{5}$$ ==  1.4  =  1 remainder 2  = One & two-fifths 
 
 
-As you read that multitude of numbers and fractions, what exactly are they?
+there it is, the correct answer is:
+$$\frac{7}{5}$$
 
-Is there a parallel to that in a spoken language?
+let's take this problem one step further. As you read that multitude of numbers and fractions above, what exactly are they?
+
+they lokk different but have the same value, same meaning. Is there a parallel to that in a spoken language?
 
 Why yes, there is. You are reading a line of Synonyms, well mostly. In spoken language, a Synonym is defined as a word that has the same or nearly the same meaning as another word.
 
@@ -143,7 +158,7 @@ Okay, WTF is all of that about? The answer = x, where x can be any number you as
 
 No matter what number you assign to the value of x, it will always return the same value of x.
 
-How does that work, exactly? It’s because 1 is a null modifier.
+How does that work, exactly? It’s because 1 is a null modifier. it's the mathmatical equivilant of a child arguing with their father about being denied candy, or told it is bedtime.  seriously, kid? has that shit EVER workd out for you? ever? yet, here we are. 
 
 Now, here is the most crucial part, every number can be expressed as 1[1(1{x} + 0)1]^1/1. The parentheses represent the “root” word being modified ('establishment'.) 
 
