@@ -34,13 +34,21 @@ Here is a grammatical example:
 
 The Order of Operations: P.lease E.xcuse M.y D.ear A.unt S.ally. AKA parentheses, exponent, multiplication, division, addition, subtraction
 
-How in the world did they come up with that? Who decided Parentheses first? Without a thought, it appears asinine and arbitrary, right? It truly isn’t. Who decided the order of operations, anyhow?
+How in the world did they come up with that? Who decided Parentheses first? Without a thought, it appears asinine and arbitrary, right? It truly isn’t. Who decided the order of operations, anyhow? 
 
-The answer: nobody. The, for us, English language chose that order. What? Dead serious. The order of operations is done because when the equation is translated into English, the English sentence structure tells you what to do first.
+Was it some nerd, sick of all the bullies of their childhood? So, diabolical that (s)he decided the best revenge was making their children cry, and the bullies themselves left with thoughts of inadiquacy?
 
-Lost? Confused? Don’t worry, you are not alone. Most people cannot literate mathematical equations as English. This is the root cause of most people's mathematical struggles.
+While quite entertaining and seemingly just crazy enough to be true. it is not. 
 
-Disbelief? Here, let’s work through an example.
+The true answer: NOBODY DID!  I know that it sure feels like someone HAD to invent it, it is just too evil to be a miraculous coincidence!!!
+
+well, it is it definately wan't miracul;ous conception , either. So, who, or what invented it? well, to be honest, (for us english speakers) the  English language did it. Spoken language, not just english but in every language , chose that order. What? Dead serious. The order of operations is done because when the equation is translated into spoken language, the sentence structure tells you what to do first.
+
+Lost? Confused? Don’t worry, you are not alone. Most people cannot literate mathematical equations as English. This is the root cause of most people's mathematical struggles. 
+
+Disbelief? do we need to put on our boots, because it is getting deep, yet?
+
+Here, let’s work through an example.
 
 Read this out loud:
 
@@ -48,33 +56,32 @@ Read this out loud:
 
 So, as you look at that math problem, read it out loud.
 
-Now our grammar rule, PEDMAS then left to right, correct. That is the process, correct?
+Now our we apply our grammar rule, PEDMAS, then left to right, correct? That is the process, correct? 
 
 Most people will erroneously go to the division, then multiply, then calculate left to right.
 
-If you read: eight + twenty ÷ five * four, right? You applied PEDMAS: and got, 8 + 5 * 4 = 8 + 20 = 28, right? Nope, you translated that problem wrong.
+If you read: eight + twenty ÷ five * four, right? You applied PEDMAS: and got, 8 + 5 * 4 = 8 + 20 = 28, right? Nope, you translated that sentence wrong.
 
 If you forgot about PEDMAS and went left to right, you came up with  28 ÷ 5 * 4 = 5.6 * 4 = 22.4. Nope, that isn’t right, either.
 
 This math problem, properly translated into English reads: “The sum of 8 and 20 divided by the 5th multiple of 4.”
 
-I know, you're asking how that makes sense; there aren’t any parentheses?
+I know, you're asking how that makes sense; there aren’t any parentheses? Turns out they aren't needed. BS? or no BS?
 
-It does because you misread what ÷ truly was saying.
+No BS. It does not need parenthases because you misread what ÷ truly was saying. Huuuuh?
 
-Anytime you see: ÷, /, or ⟌, what are you dealing with? A fraction.
+Anytime you see: ÷, /, or ⟌, what are you dealing with? A fraction. keep cringing, I'll wait. dI understand, Fractions are evil and are always messing with people.
 
 Rewrite it:
 
-8 + 20 ÷ 5 * 4  == 8 + 20 ⟌ 5 * 4 
+8 + 20 ÷ 5 * 4  ==  8 + 20 ⟌ 5 * 4 
 
- Now, if translate it into English… see it yet?
+ Do you see it yet? it's okay if youi don't. On a PC screen, the long division symbol doesn't quite cover everything undernieth it.
 
-How about...
+How about...if you read it out loud: "8 + 20 OVER 5 * 4?"  
 
-As you look at that, it reads 8 + 20 OVER 5 * 4. 
+How about if , i were to express it as a fraction?
 
-###
 $$\frac{8 + 20}{5 * 4}$$ =  $$\frac{20}{28}$$ = $$\frac{7 * 4}{5 * 4}$$ = $$\frac{7}{5}$$ ==  1.4  =  1 remainder 2  = One & two-fifths 
 
 
@@ -94,9 +101,9 @@ Let’s continue our exploration of PEDMAS and our language skills: compound wor
 
 I absolutely love that word. I have only had the opportunity to use it verbally, maybe twice in my lifetime, which is why it is so wonderful.
 
-It is long and convoluted, yet if you read the word correctly, you will see that the only operative part you need to know is “establishment” and everything else just falls into place.
+It is long and convoluted, yet if you read the word correctly, you will see that the only operative part you need to know is “establishment” and everything else just falls into understanding.
 
-Wait? What? Yeah, if you know the root and the definitions of its modifiers, you can easily know to define the word.
+Wait? What? Yeah, if you know the root and the definitions of its modifiers, you can easily define the word.
 
 Anti- = against
 
@@ -108,33 +115,39 @@ establishment = the implementation and establishment of a national religion.
 
 -ism = social practice, action, or norm
 
-A side note and fun fact: being “Antidis-” something means you are “against being against” something. In other words, you are for or pro- it) Proestamlismentarianism = antidisestablishmentarianism. W00t, you just verbalized why a double negative, in math and English, creates a positive. Double word score! Hell yeah!
+A side note and fun fact: being “Antidis-” something means you are “against being against” something. In other words, you are for or pro- it. 
+
+Proestamlismentarianism = antidisestablishmentarianism. 
+
+W00t, you just verbalized why a double negative, in math and English, creates a positive. Double word score! Hell yeah!
 
 Excuse me while I put away my inner-nerd… and continue our pleasant math discussion. Well, F***. I know what you are thinking: “Oxymoronic, much?” Pssh, you just hush!
 
-Moving right along, footloose and fancy-free… So, all together, Antidisestablishmentarianism is someone or some group of people who are against the removal of the social practice providing for a national, state-imposed, state-enforced religion. This means you are pro-theocracy.
+Moving right along, footloose and fancy-free… 
 
-Okay, that is all fine and dandy, and all, but what does that have to do with arithmetic?
+So, all together, Antidisestablishmentarianism is someone or some group of people who are against the removal of the social practice providing for a national, state-imposed, state-enforced religion. This means you are pro-theocracy.
+
+Okay, that is all fine and dandy, but what does that have to do with arithmetic?
 
 Quite simply, Anti... (you get it) is a compound word, an operative word, that is being modified by other parameters.
 
 In the language of Math, the same thing is happening with parentheses and exponents.
 
-## Mathmatically, it is written Anti-[(-dis-)+{establishment}+(-arian)]-ism
+## Mathmatically speaking, it is written Anti-[(-dis-)+{establishment}+(-arian)]-ism
 
 Let's look at this expression: 1[1(1{x} + 0)1]^1/1 
 
-(Note: a fractional exponent = a fraction. So, x^1/1^ = x ÷ 1 where x^1/2 = 1/(x^2^) )
+(Note: a fractional exponent = a fraction. So, x^1/1 = x ÷ 1 and  x^1/2 = 1/(x^2^) = "1 over x squared" )
 
-Okay, WTF is all of that about? The answer = x, where x can be any number you assign to it. 
+Okay, WTF is all of that about? The answer = x, where x can be any number you assign to it. Did you just roll your eyes at the pc screen? seriously? quit lying!
 
 No matter what number you assign to the value of x, it will always return the same value of x.
 
 How does that work, exactly? It’s because 1 is a null modifier.
 
-Now, here is the most crucial part, every number can be expressed as above. The parentheses represent the “root” word being modified ('establishment'.) 
+Now, here is the most crucial part, every number can be expressed as 1[1(1{x} + 0)1]^1/1. The parentheses represent the “root” word being modified ('establishment'.) 
 
-Everything else is what is being done to that word, change the definition of the word as a whole.
+Everything else is what is being done to that word, change the definition of the word/number as a whole.
 
 If you don’t see the modifier written out or expressed, then that modifier's value is = 1. Furthermore, even if it isn't expressed in writeing, it is still there and has to be taken in account.
 
@@ -150,11 +163,11 @@ If you replace, remove, or change any of those modifiers, you change the definit
 
 - 1-[(-1-)+{establishment}+(-1)]-1  = the act of implementing a national religion. 
 
-all of that is sounds pretty logical and you can see how the modifiers change the definition of the word. 
+All of that is sounds pretty logical and you can see how the modifiers change the definition of the word. Right?
 
 Now, let's apply that very same logic to value for (X).
 
-1x = x = 1x1 = 1(x1)^1/1… ad infinitum. 
+1x = x = 1x1 = 1(x1)^1/1… ad infinitum... always = x.
 
 So, exactly what does all of this mean? 
 
@@ -166,17 +179,21 @@ If you change, or ignore them, then the works meaning (value) will be changed.
 
 Do these modifiers have names? yup. In English, a modifer in front of a word is called a “prefix.” The modifier affixed to the rear is called a "suffix." 
 
-For a numerical expression the number in front of the parenthesis is called a “coefficient.”  Okay, so now your probably thinking along the lines od, "oooh, so what it has a name."
+For a numerical expression the number in front of the parenthesis is called a “coefficient.”  Okay, so now your probably thinking along the lines of, "oooh, so what it has a name. pbpbpbpbpbpt!"
 
-I know, I get more excited about some really odd things. Calculus is fun, there I said it, I enjoy a good derivation or integral morte than most. Bite me!
+I know, I get excited about some really odd things. Calculus is fun, there I said it, I enjoy a good derivation or integral more than I should. Bite me!
 
-Ah, a bear in its natural habitat: a Studebaker named "coefficient." 
+## Ah, a bear in its natural habitat: a Studebaker named "coefficient." 
 
-a coefficient expresses the multitude of the value inside the parentheses. 
+Inconcievible! You keep saying that word. I don't think it means, what you think it means.
 
-1(x) means there is only one (x), where 999(x) means there are 999 of them all added together. Be glad it is there too, how'd you like to  add that number together by hand, 999 times? 
+ NO MORE RHYMING AND I MEAN IT! 
 
-on the back side of the (), is the sufffix, an exponent. The exponent expresses the multiplicity, or how many times (x), is multiplied and compounded upon itself.
+Simply put coefficient expresses the multitude of the value inside the parentheses. 
+
+1(x) means there is only one (x), where 999(x) means there are 999 of them all added together. Be glad it is there too, how'd you like to add a number together by hand, 999 times? Not so bad, when x=1, but imagine writing out: 1,421,667 + 1,421,667 + 1,421,667......996 more times? blah.
+
+On the back side of the (), is the sufffix, an exponent. The exponent expresses the multiplicity, or how many times (x), is multiplied by and compounded upon itself.
 
 
 ## Summation... for now... it's late and you already think poorly of me. (AKA \TLDR)
