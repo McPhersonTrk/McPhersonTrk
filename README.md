@@ -74,20 +74,11 @@ How about...
 
 As you look at that, it reads 8 + 20 OVER 5 * 4. 
 
-###--These fractions below do not line up. i wil figure out how to fix it later
-
-|--------|-----|------|---|----------|------|-----|---|--------|---------------------------------------------|
-|8 + 20  |     | 28   |   |   7 * 4  |      |   4 |   | 7      |                                             |
-|--------|  =  |----- | = |  --------|   =  |-----| * | -----  |=  1.4  =  1 remainder 2  = One & two-fifths |
-|5 * 4   |     | 20   |   |   5 *  4 |      |  4  |   | 5      |                                             | 
-|--------|-----|-----|---|----------|------|-----|---|--------|---------------------------------------------|
-
-
 ###
+$$\frac{8 + 20}{5 * 4}$$ =  $$\frac{20}{28}$$ = $$\frac{7 * 4}{5 * 4}$$ = $$\frac{4 * 7}{4 * 5}$$ ==  1.4  =  1 remainder 2  = One & two-fifths 
 
 
 As you read that multitude of numbers and fractions, what exactly are they?
-
 
 Is there a parallel to that in a spoken language?
 
