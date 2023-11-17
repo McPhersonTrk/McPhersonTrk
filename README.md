@@ -179,7 +179,7 @@ a coefficient expresses the multitude of the value inside the parentheses.
 on the back side of the (), is the sufffix, an exponent. The exponent expresses the multiplicity, or how many times (x), is multiplied and compounded upon itself.
 
 
-## Summation... for now... it's late and you already think pooly of me. (AKA \TLDR)
+## Summation... for now... it's late and you already think poorly of me. (AKA \TLDR)
 
 
 In English, we have spelling, structures, punctuation, and grammar, which are a set of rules for the modification of letters to convey a specific idea. That idea being expressed is the solution to the letters themselves.
