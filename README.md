@@ -88,7 +88,9 @@ In math, a language of logic, there are no “nearly the same”—it is either 
 
 Let’s continue our exploration of PEDMAS and our language skills: compound words: here is one of my favorites:
 
-Antidisestablishmentarianism.
+
+## Antidisestablishmentarianism.
+
 
 I absolutely love that word. I have only had the opportunity to use it verbally, maybe twice in my lifetime, which is why it is so wonderful.
 
@@ -118,53 +120,67 @@ Quite simply, Anti... (you get it) is a compound word, an operative word, that i
 
 In the language of Math, the same thing is happening with parentheses and exponents.
 
-Anti-[(-dis-)+{establishment}+(-arian)]-ism
+## Mathmatically, it is written Anti-[(-dis-)+{establishment}+(-arian)]-ism
 
 Let's look at this expression: 1[1(1{x} + 0)1]^1/1 
 
 (Note: a fractional exponent = a fraction. So, x^1/1^ = x ÷ 1 where x^1/2 = 1/(x^2^) )
 
-Okay, WTF is all of that? The answer = x, where x can be any number you assign to it. No matter what number you assign to the value of x, it will always return the same value of x.
+Okay, WTF is all of that about? The answer = x, where x can be any number you assign to it. 
 
-How does that work? It’s because 1 is a null modifier.
+No matter what number you assign to the value of x, it will always return the same value of x.
 
-Now, here is the most crucial part, every number can be expressed as above. The parentheses represent the “root” word being modified (establishment.) Everything else is what is being done to that word, change the definition of the word as a whole.
+How does that work, exactly? It’s because 1 is a null modifier.
 
-If you don’t see the modifier written out or expressed, then that modifier's value is = 1 and even if it isn't expressed in writeing, it is still there and has to be taken in account.
+Now, here is the most crucial part, every number can be expressed as above. The parentheses represent the “root” word being modified ('establishment'.) 
 
-if we wrote out our favorite compound word, mathmaically, it would look like this:
+Everything else is what is being done to that word, change the definition of the word as a whole.
 
-Anti-[(-dis-)+{establishment}+(-arian)]-ism
+If you don’t see the modifier written out or expressed, then that modifier's value is = 1. Furthermore, even if it isn't expressed in writeing, it is still there and has to be taken in account.
+
+As this sections title suggests, if we wrote out our favorite compound word, mathmaically, it would look like this:
+
+- Anti-[(-dis-)+{establishment}+(-arian)]-ism
 
 If you replace, remove, or change any of those modifiers, you change the definition of the word.:
 
-1-[(-1-)+{establishment}+(-arian)]-ism = someone who is for the implementation of a state religion. 
+- 1-[(-1-)+{establishment}+(-arian)]-ism = someone who is for the implementation, and the social normatives, of a state religion. 
 
-Anti-[(-1-)+{establishment}+(-arian)]-ism = is someone who is against it. 
+- Anti-[(-1-)+{establishment}+(-arian)]-ism = is someone who is against it, and against the social norms. 
 
-1-[(-1-)+{establishment}+(-1)]-1  = the implementation of a national religion.
+- 1-[(-1-)+{establishment}+(-1)]-1  = the act of implementing a national religion. 
 
-Now, let's apply that logic to value for X.
+all of that is sounds pretty logical and you can see how the modifiers change the definition of the word. 
 
-1x = x = 1x1 = 1(x1)^1/1… ad infinitum 
+Now, let's apply that very same logic to value for (X).
 
-So, exactly what does all of this mean?
+1x = x = 1x1 = 1(x1)^1/1… ad infinitum. 
+
+So, exactly what does all of this mean? 
 
 If you see parentheses, then everything touching those parentheses, expressed or in the case of 1, not expressed, are modifiers of the value within the parentheses.
 
-do these modifiers have names? yup. The “prefix” or the number in front of the parenthesis is called a “coefficient.”
+Together, all of the modifiers, create the actual definition of the number you are speaking of. 
 
-A coefficient expresses the multitude of the value inside the parentheses. 
+If you change, or ignore them, then the works meaning (value) will be changed. 
 
-1(x) means there is only one (x), where 999(x) means there are 999 of them added together.
+Do these modifiers have names? yup. In English, a modifer in front of a word is called a “prefix.” The modifier affixed to the rear is called a "suffix." 
 
-The exponent expresses the multiplicity, or how many times (x), is multiplied and compounded by itself.
+For a numerical expression the number in front of the parenthesis is called a “coefficient.”  Okay, so now your probably thinking along the lines od, "oooh, so what it has a name."
+
+I know, I get more excited about some really odd things. Calculus is fun, there I said it, I enjoy a good derivation or integral morte than most. Bite me!
+
+Ah, a bear in its natural habitat: a Studebaker named "coefficient." 
+
+a coefficient expresses the multitude of the value inside the parentheses. 
+
+1(x) means there is only one (x), where 999(x) means there are 999 of them all added together. Be glad it is there too, how'd you like to  add that number together by hand, 999 times? 
+
+on the back side of the (), is the sufffix, an exponent. The exponent expresses the multiplicity, or how many times (x), is multiplied and compounded upon itself.
 
 
-## Summation... for now.
+## Summation... for now... it's late and you already think pooly of me. (AKA \TLDR)
 
-
-Now, to tie all of this PEDMAS stuff together and learning the translation of math into English.
 
 In English, we have spelling, structures, punctuation, and grammar, which are a set of rules for the modification of letters to convey a specific idea. That idea being expressed is the solution to the letters themselves.
 
