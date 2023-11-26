@@ -1,6 +1,8 @@
 # Understanding Mathematics: A Linguistic Perspective
-
-## Introduction
+<details>
+  <summary>Click to expand/collapse the full article.</summary>
+ 
+ ## Introduction
 
 For those struggling with math, here is something I learned in a philosophy class.
 
@@ -210,6 +212,7 @@ Simply put coefficient expresses the multitude of the value inside the parenthes
 
 On the back side of the (), is the sufffix, an exponent. The exponent expresses the multiplicity, or how many times (x), is multiplied by and compounded upon itself.
 
+</details>
 
 ## Summation... for now... it's late and you already think poorly of me. (AKA \TLDR)
 
