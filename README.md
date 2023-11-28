@@ -227,3 +227,10 @@ If by some chance you approach a math problem, and it seems nonsensical to you, 
 
 Anyhow, I believe I have run my tank of nerdiness to E, and will sign off. Good day!
 
+###Tony's useful links. Thanks, Teach!
+
+## CheatSheets to ...well... everything. 
+https://overapi.com/
+
+##kill that tech Interview
+https://dev.to/denicmarko/resources-to-crush-the-technical-interview-1fc4?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email
